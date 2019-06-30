@@ -6,3 +6,4 @@ check different
 test reset
 test branch
 merge two conflicts branch
+test close fast forward
