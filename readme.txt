@@ -5,4 +5,9 @@ try more
 check different
 test reset
 test branch
+<<<<<<< HEAD
 merge two conflicts branchs----test stash
+=======
+merge two conflicts branch
+test no-ff
+>>>>>>> dev
